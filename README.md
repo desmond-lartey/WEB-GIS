@@ -9,7 +9,6 @@ It is part of a research project involving 3 European universities: NOVA IMS (Li
 
 In this case, this app is focosed on Lisbon (LX stands for Lisbon), as the study area.
 
-The link for accessing the platform is: [eImage-LX](http://eimglx.herokuapp.com/)
 
 The link for accessing the final map (the "Evaluative Image of Lisbon") created automatically by the platform is: [eImage-Viewer](http://eimglx.herokuapp.com/map/eimg_viewer.php)
 
